@@ -1,7 +1,7 @@
 pipx
 # Pipx
 
-> Slugline
+> A straightforward way to distribute desktop and command-line applications written in Python is to publish them on the Python Package Index (PyPI), which hosts hundreds of thousands of third-party packages. Many of these packages include runnable scripts, but using them requires decent familiarity with the Python ecosystem. With pipx, you can safely install and execute such applications without affecting your global Python interpreter.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
