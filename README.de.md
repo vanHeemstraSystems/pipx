@@ -1,6 +1,6 @@
-Repository-Name
+pipx
 
-# Repository-Name
+# Pipx
 
 > Slugline
 
