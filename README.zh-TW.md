@@ -3,15 +3,15 @@
 # 儲存庫名稱
 
 > 斯拉格萊恩
->
-> -   [詞彙表](./GLOSSARY.md)
-> -   [參考](./REFERENCES.md)
+
+-   [詞彙表](./GLOSSARY.md)
+-   [參考](./REFERENCES.md)
 
 **執行摘要**
 
 文字
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
