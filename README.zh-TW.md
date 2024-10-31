@@ -1,6 +1,6 @@
-儲存庫名稱
+皮克斯
 
-# 儲存庫名稱
+# 皮克斯
 
 > 斯拉格萊恩
 
@@ -11,7 +11,7 @@
 
 文字
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
@@ -19,10 +19,10 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
