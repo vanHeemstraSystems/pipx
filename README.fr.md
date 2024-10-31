@@ -1,6 +1,6 @@
-nom du référentiel
+pipx
 
-# Nom du référentiel
+# Pix
 
 > Slugline
 
