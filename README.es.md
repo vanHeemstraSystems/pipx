@@ -2,7 +2,7 @@ pipx
 
 # Pipx
 
-> línea de bala
+> Una forma sencilla de distribuir aplicaciones de escritorio y de línea de comandos escritas en Python es publicarlas en Python Package Index (PyPI), que aloja cientos de miles de paquetes de terceros. Muchos de estos paquetes incluyen scripts ejecutables, pero su uso requiere una cierta familiaridad con el ecosistema Python. Con pipx, puede instalar y ejecutar dichas aplicaciones de forma segura sin afectar su intérprete global de Python.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
