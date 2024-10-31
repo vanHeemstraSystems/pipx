@@ -1,11 +1,11 @@
-भंडार-नाम
+पिपक्स
 
-# भंडार का नाम
+# पिपक्स
 
 > स्लगलाइन
 
--   [शब्दकोष](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
