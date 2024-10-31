@@ -1,6 +1,6 @@
-repositorynaam
+pipx
 
-# Repository Name
+# Pipx
 
 > Slaklijn
 
