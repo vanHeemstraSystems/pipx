@@ -3,9 +3,9 @@ nom du référentiel
 # Nom du référentiel
 
 > Slugline
->
-> -   [Glossaire](./GLOSSARY.md)
-> -   [Références](./REFERENCES.md)
+
+-   [Glossaire](./GLOSSARY.md)
+-   [Références](./REFERENCES.md)
 
 **Résumé exécutif**
 
