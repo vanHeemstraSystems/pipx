@@ -2,7 +2,7 @@
 
 # 皮克斯
 
-> 分发用 Python 编写的桌面和命令行应用程序的一种直接方法是将它们发布到 Python 包索引 (PyPI) 上，该索引托管数十万个第三方包。其中许多包都包含可运行的脚本，但使用它们需要对 Python 生态系统有相当的熟悉。使用 pipx，您可以安全地安装和执行此类应用程序，而不会影响您的全局 Python 解释器。
+> A straightforward way to distribute desktop and command-line applications written in Python is to publish them on the Python Package Index (PyPI), which hosts hundreds of thousands of third-party packages. Many of these packages include runnable scripts, but using them requires decent familiarity with the Python ecosystem. With pipx, you can safely install and execute such applications without affecting your global Python interpreter.
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
