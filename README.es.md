@@ -1,11 +1,11 @@
-nombre-repositorio
+pipx
 
-# Nombre del repositorio
+# Pipx
 
 > línea de bala
->
-> -   [Glosario](./GLOSSARY.md)
-> -   [Referencias](./REFERENCES.md)
+
+-   [Glosario](./GLOSSARY.md)
+-   [Referencias](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
