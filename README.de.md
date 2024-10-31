@@ -2,7 +2,7 @@ pipx
 
 # Pipx
 
-> Slugline
+> Eine einfache Möglichkeit, in Python geschriebene Desktop- und Befehlszeilenanwendungen zu verteilen, besteht darin, sie im Python Package Index (PyPI) zu veröffentlichen, der Hunderttausende Pakete von Drittanbietern hostet. Viele dieser Pakete enthalten ausführbare Skripte, ihre Verwendung erfordert jedoch gute Kenntnisse des Python-Ökosystems. Mit pipx können Sie solche Anwendungen sicher installieren und ausführen, ohne Ihren globalen Python-Interpreter zu beeinträchtigen.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
