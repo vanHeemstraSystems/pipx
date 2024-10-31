@@ -1,6 +1,6 @@
-存储库名称
+皮克斯
 
-# 存储库名称
+# Pipx
 
 > 斯拉格莱恩
 
@@ -9,7 +9,7 @@
 
 **执行摘要**
 
-Text
+文本
 
 ## 100 - 简介
 
@@ -19,10 +19,10 @@ Text
 
 看[README.md](./200/README.md)
 
-## 300 - 构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
