@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [Install and Execute Python Applications Using pipx](https://realpython.com/python-pipx/)
