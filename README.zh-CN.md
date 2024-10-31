@@ -1,6 +1,6 @@
 皮克斯
 
-# Pipx
+# 皮克斯
 
 > 斯拉格莱恩
 
@@ -19,10 +19,10 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
