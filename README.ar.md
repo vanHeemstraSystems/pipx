@@ -1,6 +1,6 @@
-اسم المستودع
+بيبكس
 
-# اسم المستودع
+# Pipx
 
 > سلوجلاين
 
@@ -19,7 +19,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
