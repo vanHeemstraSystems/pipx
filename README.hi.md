@@ -1,10 +1,10 @@
 पिपक्स
 
-# पिपक्स
+# Pipx
 
-> A straightforward way to distribute desktop and command-line applications written in Python is to publish them on the Python Package Index (PyPI), which hosts hundreds of thousands of third-party packages. Many of these packages include runnable scripts, but using them requires decent familiarity with the Python ecosystem. With pipx, you can safely install and execute such applications without affecting your global Python interpreter.
+> पायथन में लिखे गए डेस्कटॉप और कमांड-लाइन एप्लिकेशन को वितरित करने का एक सीधा तरीका उन्हें पायथन पैकेज इंडेक्स (पीईपीआई) पर प्रकाशित करना है, जो सैकड़ों हजारों तृतीय-पक्ष पैकेजों को होस्ट करता है। इनमें से कई पैकेजों में चलने योग्य स्क्रिप्ट शामिल हैं, लेकिन उनका उपयोग करने के लिए पायथन पारिस्थितिकी तंत्र के साथ अच्छी परिचितता की आवश्यकता होती है। पिपक्स के साथ, आप अपने वैश्विक पायथन दुभाषिया को प्रभावित किए बिना ऐसे एप्लिकेशन को सुरक्षित रूप से इंस्टॉल और निष्पादित कर सकते हैं।
 
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
@@ -19,7 +19,7 @@ See [README.md](./100/README.md)
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
