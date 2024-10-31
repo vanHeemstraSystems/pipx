@@ -3,9 +3,9 @@ repositorynaam
 # Repository Name
 
 > Slaklijn
->
-> -   [Glossarium](./GLOSSARY.md)
-> -   [Referenties](./REFERENCES.md)
+
+-   [Glossarium](./GLOSSARY.md)
+-   [Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
