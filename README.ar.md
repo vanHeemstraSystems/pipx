@@ -3,15 +3,15 @@
 # اسم المستودع
 
 > سلوجلاين
->
-> -   [مسرد](./GLOSSARY.md)
-> -   [مراجع](./REFERENCES.md)
+
+-   [مسرد](./GLOSSARY.md)
+-   [مراجع](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -19,7 +19,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
