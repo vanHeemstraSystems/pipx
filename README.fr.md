@@ -2,7 +2,7 @@ pipx
 
 # Pix
 
-> Un moyen simple de distribuer des applications de bureau et de ligne de commande écrites en Python consiste à les publier sur Python Package Index (PyPI), qui héberge des centaines de milliers de packages tiers. Beaucoup de ces packages incluent des scripts exécutables, mais leur utilisation nécessite une bonne connaissance de l'écosystème Python. Avec pipx, vous pouvez installer et exécuter de telles applications en toute sécurité sans affecter votre interpréteur Python global.
+> A straightforward way to distribute desktop and command-line applications written in Python is to publish them on the Python Package Index (PyPI), which hosts hundreds of thousands of third-party packages. Many of these packages include runnable scripts, but using them requires decent familiarity with the Python ecosystem. With pipx, you can safely install and execute such applications without affecting your global Python interpreter.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -11,7 +11,7 @@ pipx
 
 Texte
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
